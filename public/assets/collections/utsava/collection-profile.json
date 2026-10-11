@@ -1,0 +1,10 @@
+{
+  "name": "Utsava",
+  "subtitle": "The Occasion",
+  "sanskrit": "उत्सव",
+  "price": 2499,
+  "tagline": "Refined footwear for celebrations, weddings, and festive dressing.",
+  "photo": "/assets/collections/utsava-photo.jpg",
+  "thumb": "/assets/collections/utsava-thumb.png",
+  "hero": "/assets/lifestyle/modern-occasions.jpg"
+}

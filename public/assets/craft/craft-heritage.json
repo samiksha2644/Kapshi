@@ -1,0 +1,25 @@
+{
+  "gi_registration": "Registered Geographic Indication across Maharashtra and Karnataka (2018)",
+  "process_pillars": [
+    {
+      "step": "01",
+      "name": "Bag-Tanned Leather",
+      "detail": "Vegetable tanning using babul bark and myrobalan nuts; zero chrome chemicals."
+    },
+    {
+      "step": "02",
+      "name": "Precision Skiving",
+      "detail": "Sole and upper cut and skived by hand using traditional curved Rampi blades."
+    },
+    {
+      "step": "03",
+      "name": "Cord Stitching",
+      "detail": "Sewn exclusively with hand-twisted leather cord; no synthetic glues, no metal nails."
+    },
+    {
+      "step": "04",
+      "name": "Natural Burnish",
+      "detail": "Stone-hammered and rubbed with pure castor oil for suppleness and durability."
+    }
+  ]
+}

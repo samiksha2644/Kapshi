@@ -1,0 +1,20 @@
+{
+  "brand_name": "KAPSHI",
+  "sanskrit_name": "कापशी",
+  "tagline": "Made from where we came. Designed for where we're going.",
+  "supporting_statement": "The Kolhapuri, for today. Authentic. Comfortable. Contemporary.",
+  "origin": "Kapshi Village, Kolhapur District, Maharashtra",
+  "color_palette": {
+    "primary_deep_leather_brown": "#4B2615",
+    "base_warm_parchment": "#F1E6D0",
+    "accent_muted_tan": "#A77A53",
+    "neutral_warm_charcoal": "#29231F",
+    "campaign_rust_red": "#8C2D19",
+    "campaign_antique_gold": "#C6923B"
+  },
+  "typography": {
+    "headlines": "Cormorant Garamond",
+    "body_labels": "Manrope",
+    "sanskrit": "Tiro Sanskrit"
+  }
+}

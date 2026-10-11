@@ -1,0 +1,10 @@
+{
+  "name": "Yatra",
+  "subtitle": "The Travel",
+  "sanskrit": "यात्रा",
+  "price": 1799,
+  "tagline": "Featherweight, flexible, packable soles designed for wanderers and getaways.",
+  "photo": "/assets/collections/yatra-photo.jpg",
+  "thumb": "/assets/collections/yatra-thumb.png",
+  "hero": "/assets/lifestyle/weekend-travel.jpg"
+}

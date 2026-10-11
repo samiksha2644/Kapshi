@@ -10,6 +10,7 @@ import { ProductModal } from './components/ProductModal';
 import { CartDrawer } from './components/CartDrawer';
 import { Footer } from './components/Footer';
 import { IntroCinematic } from './components/IntroCinematic';
+import { NavratriEditionModal } from './components/NavratriEditionModal';
 
 function MainLayout() {
   // Navigation states: 'home', 'shop', 'collection', 'story', 'craft'
@@ -64,6 +65,13 @@ function MainLayout() {
               onViewCraft={() => navigateTo('craft')}
               onShopAll={() => navigateTo('shop')}
             />
+
+            {/* Navratri Festive Edition Update Modal Popup */}
+            {hasCompletedIntro && (
+              <NavratriEditionModal
+                onExploreUtsava={() => navigateTo('collection', 'utsava')}
+              />
+            )}
           </>
         )}
 

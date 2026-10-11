@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { PRODUCTS, COLLECTIONS, CAMPAIGN_CONFIG } from '../data/products';
 import { ProductCard } from '../components/ProductCard';
+import { UtsavaCampaignSpotlight } from '../components/UtsavaCampaignSpotlight';
 import { Sparkles, Filter, RotateCcw } from 'lucide-react';
 
 export const CatalogView = ({ onSelectProduct, initialCollection = null }) => {
@@ -221,6 +222,16 @@ export const CatalogView = ({ onSelectProduct, initialCollection = null }) => {
 
         </div>
       </div>
+
+      {/* Utsava Campaign Advertisement Video Showcase */}
+      {selectedCollection === 'utsava' && (
+        <div style={{ marginTop: '2.5rem', marginBottom: '1rem' }}>
+          <UtsavaCampaignSpotlight
+            compact={true}
+            onSelectProduct={onSelectProduct}
+          />
+        </div>
+      )}
 
       {/* Product Grid */}
       <div className="container" style={{ marginTop: '3.5rem' }}>

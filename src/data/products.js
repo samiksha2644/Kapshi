@@ -68,6 +68,7 @@ export const COLLECTIONS = [
     heroImage: "/assets/collections/utsava/utsava-editorial.jpg",
     accentColor: "#8C2D19",
     isFestiveEligible: true,
+    videoUrl: "/assets/video/navratri-video.mp4",
     craftDetail: "Intricate hand-braided antique metallic cordage with stone-hammered castor oil burnish."
   },
   {
@@ -81,7 +82,7 @@ export const COLLECTIONS = [
     basePrice: 1799,
     photo: "/assets/collections/yatra/yatra-product-photo.jpg",
     thumb: "/assets/collections/yatra/yatra-silhouette.png",
-    heroImage: "/assets/collections/yatra/yatra-editorial.jpg",
+    heroImage: "/assets/collections/yatra/yatra-product-photo.jpg",
     accentColor: "#7B553C",
     craftDetail: "Zero-nail hand-twisted leather cord welt offering 360-degree bend flexibility."
   }
@@ -168,7 +169,7 @@ export const PRODUCTS = [
       model: "/assets/lifestyle/modern-occasions.jpg",
       thumb: "/assets/collections/utsava/utsava-silhouette.png"
     },
-    videoUrl: "/assets/video/brand-film.mp4",
+    videoUrl: "/assets/video/navratri-video.mp4",
     colors: [
       { id: "burnished-walnut", name: "Burnished Walnut & Gold", hex: "#4B2615" },
       { id: "rust-mrittika", name: "Rust Clay Mrittika", hex: "#8C2D19" }
